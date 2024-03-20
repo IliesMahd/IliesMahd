@@ -1,4 +1,3 @@
-<img src=”https://https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”profile banner”>
 ![Banner linkedin](https://github.com/IliesMahd/IliesMahd/assets/43859957/677e4351-5a24-44ff-b7d7-e3e2cdad08c9)
 
 
