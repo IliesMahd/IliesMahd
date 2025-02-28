@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I'm 20 years old<br>I'm currently a student at Pôle Sup de la Salle in Rennes, France<br>I'm currently learning Next.js<br>My hobbies are sports (handball player since I was 4), shopping and my family
+I'm 20 years old<br>I'm currently a student at Pôle Sup de la Salle in Rennes, France<br>I'm currently learning Angular & NestJS<br>My hobbies are sports (handball player since I was 4), shopping and my family
 
 
 ## 🌐 Socials:
