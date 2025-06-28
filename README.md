@@ -9,7 +9,7 @@ Salut ! Je m'appelle Iliès, j'ai 20 ans et je suis actuellement en Bachelor Dé
 - NestJS
 
 
-## 🌐 Socials:
+## 🌐 Retrouvez-moi sur :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ilies-mahoudeau) 
 
 # 💻 Tech Stack:
