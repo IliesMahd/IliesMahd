@@ -1,7 +1,7 @@
 # 💫 À propos de moi:
 Salut ! Je m'appelle Iliès, j'ai 20 ans et je suis actuellement en Bachelor Développement Informatique à Sup de Vinci à Rennes, France.
 
-##⭐ Techs préférées : 
+## ⭐ Techs préférées : 
 
 - Angular
 - TypeScript
